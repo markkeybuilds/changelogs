@@ -31,3 +31,5 @@ Send your logs on our [Telegram](https://t.me/joinchat/LGRjUZ3UyrxlMWM1) group
 
 ## Appreciate my work?
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3U96JUKTPDQE4)
+
+[![](https://github.com/markkeybuilds/changelogs/blob/main/QR%20Code.png)]
