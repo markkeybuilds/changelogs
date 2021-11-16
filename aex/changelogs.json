@@ -1,2 +1,5 @@
-
+November 2021
 Initial screenoff FOD implementation
+Fixed lockscreen charging information
+Fixed issues with Google Voice Recorder
+use AUDIO_FORMAT_PCM_24_BIT_PACKED for deep buffer
