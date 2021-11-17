@@ -7,7 +7,7 @@ Android custom ROM project based on LineageOS/AOSP, with minimal features, funct
 - [Here](https://github.com/markkeybuilds/changelogs/blob/main/flos/changelogs.json)
 
 ## Source Changelog
-- Please check [Fork-LineageOS](https://github.com/ForkLineageOS/) git XD
+- Please check [Fork-LineageOS](https://t.me/ForkLineageOSUpdates/151) Telegram Group XD
 
 ## Flashing Instructions
 ### Clean flash
