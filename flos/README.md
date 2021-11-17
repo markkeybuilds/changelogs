@@ -3,11 +3,8 @@
 ## Fork LineageOS for Xiaomi Mi 9T / Redmi K20 (davinci/davinciin)
 Android custom ROM project based on LineageOS/AOSP, with minimal features, functionality and most importantly, performance.
 
-## Device Changelogs
+## Changelogs
 - [Here](https://github.com/markkeybuilds/changelogs/blob/main/flos/changelogs.json)
-
-## Source Changelog
-- Please check [Fork-LineageOS](https://t.me/ForkLineageOSUpdates/151) Telegram Group XD
 
 ## Flashing Instructions
 ### Clean flash
