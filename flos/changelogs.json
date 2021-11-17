@@ -1,0 +1,7 @@
+November
+
+- Fixed google voice recorder
+- Switched to AUDIO_FORMAT_PCM_24_BIT_PACKED for deep buffer
+- Updated Lawnfeed and Lawnchair
+- Upstreamed kernel to latest 4.14 stable
+- Misc optimizations
