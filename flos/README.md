@@ -9,7 +9,7 @@ Android custom ROM project based on LineageOS/AOSP, with minimal features, funct
 ## Flashing Instructions
 ### Clean flash
 - Reboot to recovery
-- wipe system (IMPORTANT: if you are using vanilla builds with gapps as some gapps package has survival script if system isn't wiped)
+- wipe system if using vanilla (as some gapps package has survival script that may reinstall gapps package if system isn't wiped)
 - Flash latest firmware based on your region
 - Flash ROM
 - Flash GApps or MicroG (optional for vanilla build / GAPPS user doesn't need this)
