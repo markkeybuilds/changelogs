@@ -23,6 +23,12 @@
 - Flash GApps (optional)
 - Reboot
 
+## Download links
+- [ROM](https://sourceforge.net/projects/markkeybuilds/files/a12beta/)
+- [Firmware](https://xiaomifirmwareupdater.com/firmware/davinci/)
+- [GApps](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/18-Oct-2021/)
+- [MicroG](https://sourceforge.net/projects/markkeybuilds/files/NanoDroid-MicroG.zip/download)
+
 ## Credits 
 [ArianK16a](http://https://github.com/ArianK16a) for trees and help
 
