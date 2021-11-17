@@ -1,9 +1,19 @@
 November
 
-- Fixed google voice recorder
-- Switched to AUDIO_FORMAT_PCM_24_BIT_PACKED for deep buffer
-- Updated Lawnfeed and Lawnchair
-- Upstreamed kernel to latest 4.14 stable
-- Updated ANXCamera
-- Fixed glitchy playback on some streaming apps
-- Misc optimizations
+• Merged November security patch 
+• Fixed google voice recorder
+• Switched to 24BIT PACKED AUDIO for deep buffer
+• Updated Lawnfeed and Lawnchair
+• Upstreamed kernel to latest 4.14 stable
+• Updated ANXCamera
+• Fixed glitchy playback on some streaming apps
+• Switched to Pixel 6 Pro fingerprint
+• Fixed network traffic indicator hiding when notchbar killer is active
+• Fixed all screenshot related issues 
+• Added haptic feedback for long press torch gesture 
+• Added option to enable haptic feedback on qs tiles 
+• Added Cloudfare and adguard as private DNS Provider 
+• Added customisable font size from 80%-130% 
+• Removed Updater
+• Lineage upstream
+• Misc optimizations
