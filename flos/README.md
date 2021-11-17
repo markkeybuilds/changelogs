@@ -15,7 +15,7 @@ Android custom ROM project based on LineageOS/AOSP, with minimal features, funct
 - wipe system (if you are using vanilla builds with gapps)
 - Flash latest firmware based on your region
 - Flash ROM
-- Flash [GApps](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/18-Oct-2021/) (optional if using vanilla build)
+- Flash GApps or MicroG (optional for vanilla build / GAPPS user doesn't need this)
 - Format DATA (make sure to backup important files first)
 - Flash magisk (optional)
 - Reboot
@@ -24,8 +24,14 @@ Android custom ROM project based on LineageOS/AOSP, with minimal features, funct
 - Reboot to recovery
 - Flash latest firmware based on your region
 - Flash ROM
-- Flash [GApps](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/18-Oct-2021/) (optional if using vanilla build)
+- Flash GApps or MicroG (optional for vanilla build / GAPPS user doesn't need this)
 - Reboot
+
+## Download links
+- [ROM](https://sourceforge.net/projects/markkeybuilds/files/Fork-LineageOS/)
+- [Firmware](https://xiaomifirmwareupdater.com/firmware/davinci/)
+- [GApps](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/18-Oct-2021/)
+- [MicroG](https://sourceforge.net/projects/markkeybuilds/files/NanoDroid-MicroG.zip/download)
 
 ## Credits 
 [ArianK16a](http://https://github.com/ArianK16a) for trees and help
@@ -37,9 +43,3 @@ Send your logs on our [Telegram](https://t.me/joinchat/LGRjUZ3UyrxlMWM1) group
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3U96JUKTPDQE4)
 
 ![image](https://github.com/markkeybuilds/changelogs/blob/main/QR%20Code.png)
-
-## Download links
-- [ROM](https://sourceforge.net/projects/markkeybuilds/files/Fork-LineageOS/)
-- [Firmware](https://xiaomifirmwareupdater.com/firmware/davinci/)
-- [GApps](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/18-Oct-2021/)
-- [MicroG](https://sourceforge.net/projects/markkeybuilds/files/NanoDroid-MicroG.zip/download)
