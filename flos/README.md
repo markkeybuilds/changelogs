@@ -14,7 +14,7 @@ Android custom ROM project based on LineageOS/AOSP, with minimal features, funct
 - Reboot to recovery
 - wipe system (if you are using vanilla builds with gapps)
 - Flash ROM
-- Flash GApps (optional)
+- Flash [GApps](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/18-Oct-2021/) (optional if using vanilla build)
 - Format DATA (make sure to backup important files first)
 - Flash magisk (optional)
 - Reboot
@@ -22,7 +22,7 @@ Android custom ROM project based on LineageOS/AOSP, with minimal features, funct
 ### Dirty flash (might cause issue if coming from another rom)
 - Reboot to recovery
 - Flash ROM
-- Flash GApps (optional)
+- Flash [GApps](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/18-Oct-2021/) (optional if using vanilla build)
 - Reboot
 
 ## Credits 
