@@ -13,6 +13,7 @@ Android custom ROM project based on LineageOS/AOSP, with minimal features, funct
 ### Clean flash
 - Reboot to recovery
 - wipe system (if you are using vanilla builds with gapps)
+- Flash latest firmware based on your region
 - Flash ROM
 - Flash [GApps](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/18-Oct-2021/) (optional if using vanilla build)
 - Format DATA (make sure to backup important files first)
@@ -21,6 +22,7 @@ Android custom ROM project based on LineageOS/AOSP, with minimal features, funct
 
 ### Dirty flash (might cause issue if coming from another rom)
 - Reboot to recovery
+- Flash latest firmware based on your region
 - Flash ROM
 - Flash [GApps](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/18-Oct-2021/) (optional if using vanilla build)
 - Reboot
@@ -36,5 +38,8 @@ Send your logs on our [Telegram](https://t.me/joinchat/LGRjUZ3UyrxlMWM1) group
 
 ![image](https://github.com/markkeybuilds/changelogs/blob/main/QR%20Code.png)
 
-## Download
-[Sourceforge](https://sourceforge.net/projects/markkeybuilds/files/Fork-LineageOS/)
+## Download links
+- [ROM](https://sourceforge.net/projects/markkeybuilds/files/Fork-LineageOS/)
+- [Firmware](https://xiaomifirmwareupdater.com/firmware/davinci/)
+- [GApps](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/18-Oct-2021/)
+- [MicroG](https://sourceforge.net/projects/markkeybuilds/files/NanoDroid-MicroG.zip/download)
